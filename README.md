@@ -3,11 +3,10 @@
 <table align="right">
 <tr>
 <td>
-
+  
 [<img align="left" alt="Whoami-GA | YouTube" width="22px" src="./src/youtube.png.gif" />][youtube]
-[<img align="left" alt="@Whoami-GA | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="Whoami-GA | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-
+[<img align="left" alt="@Whoami-GA | Instagram" width="22px" src="./src/instagram.png.gif" />][instagram]
+[<img align="left" alt="Whoami-GA | Facebook" width="22px" src="./src/facebook.png.gif" />][facebook]
 </td>
 </tr>
 </table>
