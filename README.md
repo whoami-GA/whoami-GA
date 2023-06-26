@@ -16,9 +16,10 @@
   <summary> About me!</summary>
 
 ### Cybersecurity Enthusiast 👥!!
-- 🤓  I’m currently learning cybersecurity.
+-  I’m currently learning cybersecurity.
+-  Curiosly.
+-  Think Correctly.
 </details>
-
 <br />
 
 
