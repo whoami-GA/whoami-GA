@@ -1,4 +1,8 @@
-![MC Technology](src/cca1e136569841.5720ffd3c7679.gif)]
+<p align="center">
+  <a href="enlace_del_destino">
+    <img src="src/cca1e136569841.5720ffd3c7679.gif" alt="MC Technology" width="500px">
+  </a>
+</p>
 
 
 <h1 align="center">Hi there, I'm Adrian - Whoami-GA <img src="./src/wave.gif" width="30px"></h1>
