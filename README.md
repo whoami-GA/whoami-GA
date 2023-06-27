@@ -73,6 +73,11 @@
 
 ---
 
+![Snake animation](https://github.com/whoami-GA/whoami-GA/blob/output/github-cotribution-grid-snake.svg)
+
+
+---
+
 [youtube]: https://www.youtube.com/channel/UCcxU7lCoMDO3M4_MfPqEt3g
 [instagram]: https://www.instagram.com/g.lazar.adrian/
 [facebook]: https://www.facebook.com/ady.lazar.10/
