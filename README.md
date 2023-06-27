@@ -55,7 +55,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=whoami-GA&show_icons=true&theme=onedark" alt="Whoami-GA's GitHub stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoami-ga&hide_progress=true&theme=onedark" alt="Top Langs">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoami-GA&hide_progress=true&theme=onedark" alt="Top Langs">
     </td>
   </tr>
 </table>
