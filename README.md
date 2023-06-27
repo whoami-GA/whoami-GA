@@ -73,7 +73,7 @@
 
 ---
 
-![Snake animation](https://github.com/whoami-GA/whoami-GA/blob/output/github-cotribution-grid-snake.svg)
+  ![Snake animation](https://github.com/whoami-ga/whoami-ga/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
