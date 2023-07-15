@@ -72,10 +72,6 @@
     <a href="https://www.youtube.com/channel/UCcxU7lCoMDO3M4_MfPqEt3g" target="_blank"> <img src="/src/WindowsBad.png" width="80px"/> </a>
 </p>
 
----
-
-  ![Snake animation](https://github.com/whoami-ga/whoami-ga/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
