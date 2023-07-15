@@ -41,6 +41,7 @@
 <h3 align="left"><img src="./src/youtube_alternativ.png" width="25px" height="25px"> Latest Videos</h3>
 
 <!-- YOUTUBE:START -->
+[Configuration NvChad And Nvim](https://youtu.be/om9Mnm5hrfk)
 
 <!-- YOUTUBE:END -->
 
