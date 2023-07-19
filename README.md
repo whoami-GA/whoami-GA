@@ -42,6 +42,7 @@
 <!-- YOUTUBE:START -->
 [Configuration NvChad And Nvim](https://youtu.be/om9Mnm5hrfk)
 
+[Pentesting in Active Directory](https://www.youtube.com/watch?v=OK741JiH52g)
 <!-- YOUTUBE:END -->
 
 
