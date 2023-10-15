@@ -1,6 +1,6 @@
 <p align="center">
   <a href="enlace_del_destino">
-    <img src="src/GifWelcome.gif" alt="MC Technology" width="500px">
+    <img src="src/GifWelcome1.gif" alt="MC Technology" width="500px">
   </a>
 </p>
 
