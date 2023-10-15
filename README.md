@@ -1,6 +1,6 @@
 <p align="center">
   <a href="Learning">
-    <img src="src/GifWelcome1.gif" alt="MC Technology" width="500px">
+    <img src="src/GifWelcome1.gif" alt="MC Technology" width="250px">
   </a>
 </p>
 
