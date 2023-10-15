@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="enlace_del_destino">
+  <a href="Learning">
     <img src="src/GifWelcome1.gif" alt="MC Technology" width="500px">
   </a>
 </p>
@@ -31,10 +31,11 @@
 <h3 align="center">Latest Projects</h3>
 
 <p align="center">
-  <a href="enlace_del_destino">
-    <span style="font-size: 24px; font-weight: bold;">Coming Soon</span>
+  <a href="Working">
+    <span style="font-size: 20px; font-weight: bold;">#Coming Soon</span>
   </a>
 </p>
+
 
 ---
 <h3 align="left"><img src="./src/youtube_alternativ.png" width="25px" height="25px"> Latest Videos</h3>
