@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="enlace_del_destino">
-    <img src="src/Simps.gif" alt="MC Technology" width="150px">
+    <span style="font-size: 24px; font-weight: bold;">Coming Soon</span>
   </a>
 </p>
 
