@@ -2,7 +2,7 @@
 
 
 ### Cybersecurity Enthusiast
-- I'm an engineering student, and trying to study Cybersecurity in pararel. Python lover and future Pentest-Tools Developer.
+- I'm an engineering student, and trying to study Cybersecurity in pararel, python lover and future Pentest-Tools Developer.
 - I'm currently learning.
 - I'm looking for a job as cybersecurity analyst, network engineer or pentester.
 - I have patience and time.
