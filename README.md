@@ -9,8 +9,27 @@
 ---
 ### How I spend my time?
 - Working every day on HackTheBox or VulnHub, where i rezolve CTF or doing non-certify courses and trying to learn and understand python.
-- Working 8h day on GsmService.
+- Working 8h day at Orange Store.
 - Learning the Engineering Bases.
+---
+
+### Find me
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/adrian-george-lazar" target="_blank">
+        <img src="src/facebook.png.gif" alt="LinkedIn" width="30px">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/lazar.adrian.g/" target="_blank">
+        <img src="src/instagram.png.gif" alt="Instagram" width="30px">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 <h3 align="center">Latest Projects</h3>
 
