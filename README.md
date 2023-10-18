@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="src/GifWelcome1.gif" width="300" height="500" />
+<img align="right" alt="GIF" src="src/GifWelcome1.gif" width="320" height="500" />
 
 
 ### Cybersecurity Enthusiast
