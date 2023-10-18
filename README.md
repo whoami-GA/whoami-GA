@@ -1,32 +1,16 @@
-<p align="center">
-  <a href="Learning">
-    <img src="src/GifWelcome1.gif" alt="MC Technology" width="250px">
-  </a>
-</p>
+<img align="right" alt="GIF" src="src/GifWelcome1.gif" width="300" height="500" />
 
 
-
-<table align="right">
-<tr>
-<td>
-  
-[<img align="left" alt="Whoami-GA | YouTube" width="22px" src="./src/youtube.png.gif" />][youtube]
-[<img align="left" alt="@Whoami-GA | Instagram" width="22px" src="./src/instagram.png.gif" />][instagram]
-[<img align="left" alt="Whoami-GA | Facebook" width="22px" src="./src/facebook.png.gif" />][facebook]
-</td>
-</tr>
-</table>
-
-<details>
-  <summary> About me!</summary>
-
-### Cybersecurity Enthusiast 👥!!
--  I’m currently learning cybersecurity.
--  Curiosly.
--  Think Correctly.
-</details>
-<br />
-
+### Cybersecurity Enthusiast
+- I'm an engineering student, and trying to study Cybersecurity in pararel. Python lover and future Pentest-Tools Developer.
+- I'm currently learning.
+- I'm looking for a job as cybersecurity analyst, network engineer or pentester.
+- I have patience and time.
+---
+### How I spend my time?
+- Working every day on HackTheBox or VulnHub, where i rezolve CTF or doing non-certify courses and trying to learn and understand python.
+- Working 8h day on GsmService.
+- Learning the Engineering Bases.
 ---
 <h3 align="center">Latest Projects</h3>
 
