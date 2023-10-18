@@ -2,15 +2,15 @@
 
 
 ### Cybersecurity Enthusiast
-- I'm an engineering student, and trying to study Cybersecurity in pararel, python lover and future Pentest-Tools Developer.
+- I'm an engineering student, and trying to study Cybersecurity in parallel, python lover, and future Pentest-Tools Developer.
 - I'm currently learning.
-- I'm looking for a job as cybersecurity analyst, network engineer or pentester.
+- I'm looking for a job as a cybersecurity analyst, network engineer, or pentester.
 - I have patience and time.
 ---
-### How I spend my time?
-- Working every day on HackTheBox or VulnHub, where i rezolve CTF or doing non-certify courses and trying to learn and understand python.
-- Working 8h day at Orange Store.
-- Learning the Engineering Bases.
+### How do I spend my time?
+- I work every day on HackTheBox or VulnHub, where I solve CTF challenges or complete non-certification courses and trying to learn and understand Python.
+- I work 8 hours a day at the Orange Store.
+- I am learning the fundamentals of engineering.
 ---
 
 ### Find me
