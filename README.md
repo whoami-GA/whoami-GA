@@ -3,7 +3,7 @@
 ### Cybersecurity Enthusiast
 - I'm an engineering student, and trying to study Cybersecurity in parallel, python lover, and future Pentest-Tools Developer.
 - I'm currently learning.
-- I'm looking for a job as a cybersecurity analyst, network engineer, or pentester.
+- I'm looking for a job as a cybersecurity analyst, network engineer, python developer or pentester.
 - I have patience and time.
 ---
 ### How do I spend my time?
